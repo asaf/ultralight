@@ -1,0 +1,12 @@
+name = "ultralight"
+license = "MIT"
+licenselink = "https://github.com/asaf/ultralight/blob/master/LICENSE.md"
+description = "Ultra Light personal blog theme"
+homepage = "http://asaf.github.io/"
+tags = ["blog", "slim", "ultralight", "lightweight", "posts", "bio", "personal"]
+features = ["blog", "posts", "bio", "tachyons"]
+min_version = "0.38"
+
+[author]
+  name = "Asaf Shakarzy"
+  homepage = "http://asaf.github.io"
